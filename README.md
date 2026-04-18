@@ -199,7 +199,7 @@ Local-first, no telemetry, no cloud. If you want to run it on a server you rent,
 
 ```
   ┌───────────────────────────────────────────────────────┐
-  │  CODE     →  AGPL-3.0                                 │
+  │  CODE     →  PolyForm Noncommercial 1.0.0             │
   │  WEIGHTS  →  OpenRAIL-M  +  PolyForm Noncommercial    │
   └───────────────────────────────────────────────────────┘
 ```
@@ -274,7 +274,7 @@ BMax is a research artifact. It does not provide medical advice. It is not a med
 
 ```
      contact   →  hi@oussamaammar.com
-     license   →  AGPL-3.0  /  OpenRAIL-M  +  PolyForm NC
+     license   →  PolyForm NC  /  OpenRAIL-M  +  PolyForm NC
      status    →  pre-alpha, manifesto stage
      governed  →  BDFL, Oussama Ammar
 ```
